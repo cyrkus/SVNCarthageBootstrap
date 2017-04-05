@@ -28,3 +28,6 @@ $(SRCROOT)/Carthage/Build/iOS/pathToFramework*.framework
 If Xcode has issues finding your framework Add
  $(SRCROOT)/Carthage/Build/iOS
   To 'Framework Search Paths' in Build Settings
+
+If you receive errors from building submodules delete 
+~/Library/Caches/org.carthage.CarthageKitw
