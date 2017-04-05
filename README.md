@@ -1,4 +1,4 @@
-To install this framework
+#To install this framework
 
 Add Carthage files to your .gitignore
  #Carthage
