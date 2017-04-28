@@ -1,3 +1,5 @@
+ [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 ## To install this framework
 
 Add Carthage files to your .gitignore
@@ -21,7 +23,7 @@ Update your project to include the framework:
 
     Carthage update --platform iOS
 
-Add the framework to 'Linked Frameworks and Libraries' in the Xcode Project by dragging and dropping the framework created in
+Add the framework to 'Embedded Binaries' in the Xcode Project by dragging and dropping the framework created in
 
     Carthage/Build/iOS/pathToFramework*.framework
 
