@@ -1,7 +1,7 @@
  [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 #SVNCarthageBootstrap
-A quick and dirty repo that can be replicated to bootstrap framework development.
+A quick and dirty repo to bootstrap carthage framework development.
 <p align="center">
   <img src="" alt=""/>
 </p>
