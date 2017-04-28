@@ -1,5 +1,23 @@
  [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
+#SVNCarthageBootstrap
+A quick and dirty repo that can be replicated to bootstrap framework development.
+<p align="center">
+  <img src="" alt=""/>
+</p>
+
+
+## To use this framework
+Copy and paste the contents (sans .git folder) into a project folder.
+To initialize your project for Carthage use and make sure you have Carthage installed:
+
+    bin/setup
+
+Once you've updated the **Cartfile**, to pull down your dependencies call:
+
+    bin/update
+
+
 ## To install this framework
 
 Add Carthage files to your .gitignore
